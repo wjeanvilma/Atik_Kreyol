@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919000236735",
+    "project_id": "atik-kreyol",
+    "storage_bucket": "atik-kreyol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919000236735:android:b293f52dd1c107fb407c0a",
+        "android_client_info": {
+          "package_name": "com.willio.atik_kreyol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919000236735-cbanke0nlr2lnj4408n4thb3u308unla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHtxp3WTublRg1a0lvuT0-PkScuLlDzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919000236735-cbanke0nlr2lnj4408n4thb3u308unla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
